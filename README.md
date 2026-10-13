@@ -19,17 +19,13 @@ Browse 2025 [course website](https://www.csie.ntu.edu.tw/~miulab/f114-adl/) for 
 ### 2. Traditional Chinese and Classical Chinese Translation
 - [HW2](./ADL_HW3/hw3.pptx): [Report](./ADL_HW3/report.pdf)
   - LoRA Qwen/Qwen3-4B
-    - Perplexity: 7.1
+    - Perplexity: 7.14
 
 ### 3. RAG
-- [HW2](./ADL_HW2/hw2.pptx): [Report](./ADL_HW2/report.pdf)
-    - Fine-tuning in Google Multilingual T5 model
-        - Rouge 2: 9.88 
-        - Rouge 3: 22.38 
+- [HW3](./ADL_HW2/hw3.pptx): [Report](./ADL_HW3/report.pdf)
+    - Fine-tuning in retriver and reranker
+      - Recall@10 =  0.780 
+      - MRR@10 = 0.695 
+      - Sentence_similarity = 0.340
 
 
-### Final Project: Can LLM learn with incoming streams of questions?
-- [Report](./FINAL/report.pdf)
-- [PowerPoint](./FINAL/powerpoint.pdf)
-- [DEMO Video](https://youtu.be/huGwdH4Q9XA?si=ZtajOOMI3phsCZwd)
-- Achieved 79% accuracy (+53%) with zero additional training cost.
