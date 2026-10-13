@@ -18,9 +18,9 @@ bash ./run.sh /path/to/context.json /path/to/test.json /path/to/pred/prediction.
 
 ## Training the model
 1. Execute the training script:
-   ```bash
+```bash
 bash ./train.sh
-   ```
+```
 2. Modify hyperparameters and file path in the `.sh` file as needed.
 
 ## Testing the model 
