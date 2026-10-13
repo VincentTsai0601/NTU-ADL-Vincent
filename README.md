@@ -6,7 +6,7 @@ This course has three homeworks and one final project.
    1. Chinese Extractive Question Answering (QA)
    2. Traditional Chinese and Classical Chinese Translation
    3. RAG 
-   4. 
+
 Browse 2025 [course website](https://www.csie.ntu.edu.tw/~miulab/f114-adl/) for more details.
 
 
