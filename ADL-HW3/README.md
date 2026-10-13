@@ -1,5 +1,5 @@
 m11115013 資工所  Min Sheng Tsai
-# ADL_HW3_RAG
+# ADL_HW3_Retrieval-Augmented Generation
 
 
 ## Setup the environments
