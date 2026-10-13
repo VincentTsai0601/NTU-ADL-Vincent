@@ -21,7 +21,7 @@ Browse 2025 [course website](https://www.csie.ntu.edu.tw/~miulab/f114-adl/) for 
   - LoRA Qwen/Qwen3-4B
     - Perplexity: 7.14
 
-### 3. RAG
+### 3. Retrieval-Augmented Generation 
 - [HW3](./ADL_HW2/hw3.pptx): [Report](./ADL_HW3/report.pdf)
     - Fine-tuning in retriver and reranker
       - Recall@10 =  0.780 
