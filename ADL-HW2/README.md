@@ -6,7 +6,13 @@ m11115013 資工所  Min Sheng Tsai
 ```bash
 bash ./download.sh
 ```
+```bash
+python3  Taiwan_llama.py
+```
 
+```bash
+python3  Qwen3-4B.py
+```
 ## Setup the environments
 
 Python 3.10.22
