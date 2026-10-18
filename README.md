@@ -18,7 +18,7 @@ Browse 2025 [course website](https://www.csie.ntu.edu.tw/~miulab/f114-adl/) for 
     - EM score: 85.74 
 ### 2. Traditional Chinese and Classical Chinese Translation
 <!-- - [HW2](./ADL_HW3/hw3.pptx): [Report](./ADL_HW3/report.pdf) -->
-  - LoRA Qwen/Qwen3-4B
+    - LoRA Qwen/Qwen3-4B
     - Perplexity: 7.14
 
 ### 3. Retrieval-Augmented Generation 
