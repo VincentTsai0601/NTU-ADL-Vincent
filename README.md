@@ -14,8 +14,8 @@ Browse 2025 [course website](https://www.csie.ntu.edu.tw/~miulab/f114-adl/) for 
 ### 1. Chinese Extractive Question Answering (QA)
   - [HW1](./ADL_HW1/hw1.pptx): [Report](./ADL-HW1/report.pdf) 
   - Linguistically-motivated Pre-trained Language Model (LERT)
-    - Accuracy: 0.80117
-    - EM score: 85.74
+       - Accuracy: 0.80117
+       - EM score: 85.74
       
 ### 2. Traditional Chinese and Classical Chinese Translation
 <!-- - [HW2](./ADL_HW3/hw3.pptx): [Report](./ADL_HW3/report.pdf) -->
