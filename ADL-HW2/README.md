@@ -2,7 +2,7 @@ m11115013 資工所  Min Sheng Tsai
 # ADL Homework 2 - Instruction Tuning (Classical Chinese) 2025 
 
 ## Preparation
-1. Download and unzip the pretrained Gemma2 LoRA weights:
+1. Download and unzip the pretrained Qwen and Taiwan llama LoRA weights:
 ```bash
 bash ./download.sh
 ```
