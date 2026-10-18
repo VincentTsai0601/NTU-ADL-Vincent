@@ -26,7 +26,7 @@ bash run.sh /path/to/model-folder /path/to/adapter_checkpoint /path/to/input /pa
 ```
 ## Qwen Example:
 ```bash
-bash run.sh zake7749/gemma-2-2b-it-chinese-kyara-dpo ./adapter_checkpoint ./data/private_test.json ./prediction.json
+bash run.sh Qwen/Qwen3-4B ./adapter_checkpoint ./data/private_test.json ./prediction.json
 ```
 
 
