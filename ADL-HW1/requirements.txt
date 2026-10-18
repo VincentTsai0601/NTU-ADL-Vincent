@@ -1,0 +1,12 @@
+torch==2.1.0
+scikit-learn==1.5.1
+nltk==3.9.1
+tqdm
+numpy==1.26.0
+pandas
+transformers==4.50.0
+datasets==2.21.0
+accelerate==0.34.2
+evaluate
+matplotlib
+gdown
