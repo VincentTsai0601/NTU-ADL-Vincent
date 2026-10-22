@@ -9,6 +9,10 @@ Download the pretrained weights:
 ```bash
 bash ./download.sh
 ```
+## Setup the virtual environment
+```bash
+conda env create -f environment.yml
+```
 
 ## Inference the Best model
 Run the following command:
