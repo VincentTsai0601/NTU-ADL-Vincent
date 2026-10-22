@@ -1,9 +1,4 @@
-m11115013 資工所  Min Sheng Tsai
-# ADL_HW3_Retrieval-Augmented Generation
-
-
-## Setup the environments
-
+# ADL_HW3_RAG
 
 ## usage
 - install package (python 3.12)
@@ -12,13 +7,21 @@ m11115013 資工所  Min Sheng Tsai
 - save corpus into vector database (from corpus.txt)
 <pre><code>python save_embbedings.py --retriever_model_path [your_model_path] --build_db</code></pre>
 
+## example 
+```bash
+python3 save_embeddings.py  --retriever_model_path intfloat/multilingual-e5-smaLL  --build_db
+```
+
 - create `./.env` and place your own hf_token([link](https://huggingface.co/docs/hub/security-tokens)) into `hf_token="....."`
 - inference
-<pre><code>python inference_batch.py --test_data_path [your_data_path] --retriever_model_path [your_retrieve_model_path] --reranker_model_path [your_rerank_model_path] –-test_data_path ./data/test_open.txt</code></pre>
 
+<pre><code>python inference_batch.py  --retriever_model_path [your_retrieve_model_path] --reranker_model_path [your_rerank_model_path] --test_data_path ./data/test_open.txt</code></pre>
 
+<pre><code>
+python3 inference_batch.py \
+  --retriever_model_path models/retriever \
+  --reranker_model_path models/reranker \
+  --test_data_path data/test_open.txt 
+</code></pre>
 
-
-
-## Usage 
 
