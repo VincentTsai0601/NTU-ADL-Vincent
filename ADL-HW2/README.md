@@ -20,6 +20,12 @@ Python 3.10.22
 ```bash
 pip install -r requirements.txt
 ```
+or 
+
+```bash
+conda env create -f environment.yml
+```
+
 
 ## Testing the Best Model
 
