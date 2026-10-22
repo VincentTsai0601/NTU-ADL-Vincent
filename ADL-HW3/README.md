@@ -7,6 +7,11 @@
 - save corpus into vector database (from corpus.txt)
 <pre><code>python save_embbedings.py --retriever_model_path [your_model_path] --build_db</code></pre>
 
+## Setting up the vitrual environment 
+```bash
+conda env create -f environment.yml
+```
+
 ## example 
 ```bash
 python3 save_embeddings.py  --retriever_model_path intfloat/multilingual-e5-smaLL  --build_db
