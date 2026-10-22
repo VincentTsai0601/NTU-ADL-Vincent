@@ -4,13 +4,15 @@
 - install package (python 3.12)
 <pre><code>pip install -r requirements.txt</code></pre>
 
-- save corpus into vector database (from corpus.txt)
-<pre><code>python save_embbedings.py --retriever_model_path [your_model_path] --build_db</code></pre>
-
 ## Setting up the vitrual environment 
 ```bash
 conda env create -f environment.yml
 ```
+
+- save corpus into vector database (from corpus.txt)
+<pre><code>python save_embbedings.py --retriever_model_path [your_model_path] --build_db</code></pre>
+
+
 
 ## example 
 ```bash
