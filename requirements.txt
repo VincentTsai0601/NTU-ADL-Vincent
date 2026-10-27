@@ -1,0 +1,8 @@
+torch==2.8.0
+transformers==4.56.2
+sentence-transformers==5.1.0
+python-dotenv==1.1.1
+accelerate==1.10.1
+gdown
+datasets==4.0.0
+tqdm==4.67.1
