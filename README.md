@@ -25,8 +25,8 @@ Browse 2025 [course website](https://www.csie.ntu.edu.tw/~miulab/f114-adl/) for 
 ### 3. Retrieval-Augmented Generation 
 - [HW3](./ADL_HW3/hw3.pptx): [Report](./ADL-HW3/report.pdf)
     - Fine-tuning in retriver and reranker
-      - Recall@10 =  0.780 
-      - MRR@10 = 0.695 
-      - Sentence_similarity = 0.340
+      - Recall@10 =  0.8420
+      - MRR@10 = 0.7421
+      - Sentence_similarity = 0.3480
 
 
