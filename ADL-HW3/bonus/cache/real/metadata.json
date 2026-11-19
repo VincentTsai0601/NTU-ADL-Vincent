@@ -1,0 +1,27 @@
+{
+  "synthetic_demo": false,
+  "feature_schema": "embedding-scores-lengths-k10-v1",
+  "pipeline_id": "815909b1d5a3d362dc200f0f9f8087442ca27f974daa9c91261ec44e8e209ae8",
+  "pipeline": {
+    "checkpoints": {
+      "retriever": {
+        "config.json": "42160ba8a089ae0212e0e6ef2862ef7c3e088a24dd9dd06ff664a24d0e1c652f",
+        "model.safetensors": "210b75a9540082bc4e7c7d3e6fc084e6b61c03601d10cc764c069d57801d035d"
+      },
+      "reranker": {
+        "config.json": "159247c9299b68cd705cfdc2541263000f735dfc6d1dedb9fcee8b28bfc85899",
+        "model.safetensors": "1ca67e33f969c8fdd245b71f15a884971b9e1a55e31ac01c35e33f51d8929e30"
+      }
+    },
+    "index_sha256": "a25bccb854e65bddad183b2fbd82c696a93f7b2e8c7ff5336e9a1aa8bc58cc4b",
+    "utils_sha256": "e143228f17cac57cce0f037c4bd3499e551ee5944dcefcfb6bd3452a01cd4bc4",
+    "generator": "Qwen/Qwen3-1.7B",
+    "generator_revision": "70d244cc86ccca08cf5af4e1e306ecf908b1ad5e",
+    "precision": "bf16",
+    "top_k": 10,
+    "max_new_tokens": 1280,
+    "do_sample": false,
+    "enable_thinking": false,
+    "scorer": "sentence-transformers/all-MiniLM-L6-v2"
+  }
+}
