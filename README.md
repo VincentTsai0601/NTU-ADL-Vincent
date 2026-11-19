@@ -7,7 +7,6 @@ This course has three homeworks and one final project.
    2. Traditional Chinese and Classical Chinese Translation
    3. RAG 
 
-Browse 2025 [course website](https://www.csie.ntu.edu.tw/~miulab/f114-adl/) for more details.
 
 
 ## Outline
