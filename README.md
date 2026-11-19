@@ -28,5 +28,15 @@ Browse 2025 [course website](https://www.csie.ntu.edu.tw/~miulab/f114-adl/) for 
       - Recall@10 =  0.8420
       - MRR@10 = 0.7421
       - Sentence_similarity = 0.3480
-
+     
+   #### Reinforcement Learning Extension
+    - Recall@10: **0.8278**
+    - MRR@10 after reranking: **0.7435**
+ 
+    - | Method | Bi-Encoder CosSim ↑ | Average Passages | Average Context Tokens |
+      |---|---:|---:|---:|
+      | Fixed M=1 | 0.325926 | 1.000 | 350.02 |
+      | Fixed M=3 | **0.331224** | 3.000 | 981.43 |
+      | Fixed M=5 | 0.331178 | 5.000 | 1589.97 |
+      | PPO controller | 0.330002 | 2.663 | 871.99 |
 
